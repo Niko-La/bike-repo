@@ -152,7 +152,8 @@ We're seeking partners who:
 9. Present risk assessment and mitigation strategies
 10. Establish clear timeline and milestones
 
-    gantt
+```mermaid
+gantt
     title E-Bike Project Roadmap
     dateFormat  YYYY-MM-DD
     section Research
