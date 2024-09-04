@@ -157,8 +157,8 @@ gantt
     title E-Bike Project Roadmap
     dateFormat  YYYY-MM-DD
     section Research
-    Prototype Development   :done,    des1, 2023-01-01,2023-06-30
-    Testing & Refinement    :active,  des2, 2023-07-01, 90d
+    Prototype Development   :done,    des1, 2020-01-01,2023-06-30
+    Testing & Refinement    :active,  des2, 2024-01-01, 200d
     section Production
     Small Scale Production  :         des3, after des2, 180d
     Scaling Up              :         des4, after des3, 365d
