@@ -1,10 +1,23 @@
 # Innovative E-Bike Partnership Opportunity: Smart Cities to Scalable Production
 
-![Customized E-Bike](https://imageurl.com/custom-ebike.jpg)
-*Figure 1: Our customized e-bike prototype, showcasing adaptability for various use cases*
+![Nikola Bike UW 1](nikola_bike_uw_1.jpg)
+*Figure 1: Our team with the latest e-bike prototype at the University of Windsor research facility*
 
-![Team and Prototype](https://imageurl.com/team-prototype.jpg)
-*Figure 2: Our team with the latest e-bike prototype at the University of Windsor research facility*
+## Prototype Evolution
+
+### Version 1
+![Nikola Bike V1](nikola_bike_v1.jpg)
+*Figure 2: First iteration of our customized e-bike prototype*
+
+![Nikola Bike V1 Alternative View](nikola_bike_v1_2.jpg)
+*Figure 3: Alternative view of the Version 1 prototype*
+
+### Version 2
+![Nikola Bike V2](nikola_bike_v2.jpg)
+*Figure 4: Second iteration of our e-bike prototype, showcasing improvements*
+
+![Nikola Bike V2 Alternative View](nikola_bike_v2_2.jpg)
+*Figure 5: Alternative view of the Version 2 prototype, highlighting adaptability for various use cases*
 
 ## Table of Contents
 
@@ -138,3 +151,16 @@ We're seeking partners who:
 8. Define social impact metrics
 9. Present risk assessment and mitigation strategies
 10. Establish clear timeline and milestones
+
+    gantt
+    title E-Bike Project Roadmap
+    dateFormat  YYYY-MM-DD
+    section Research
+    Prototype Development   :done,    des1, 2023-01-01,2023-06-30
+    Testing & Refinement    :active,  des2, 2023-07-01, 90d
+    section Production
+    Small Scale Production  :         des3, after des2, 180d
+    Scaling Up              :         des4, after des3, 365d
+    section Partnerships
+    Initial Partnerships    :         des5, 2023-09-01, 90d
+    Expand Collaborations   :         des6, after des5, 180d
