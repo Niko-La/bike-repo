@@ -19,8 +19,9 @@
 ![Nikola Bike V2 Alternative View](nikola_bike_v2_2.jpg)
 *Figure 5: Alternative view of the Version 2 prototype, highlighting adaptability for various use cases*
 
-![Nikola & Univer of Windsor BMS Board](nikola_bms.jpg)
+![Nikola R&D LAB & University of Windsor BMS Board](nikola_bms.jpg)  
 *Figure 5: Modern Open BMS (Battery Management System) prototype, under active development*
+
 
 
 nikola_bms.jpg
