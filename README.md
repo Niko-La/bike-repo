@@ -19,6 +19,11 @@
 ![Nikola Bike V2 Alternative View](nikola_bike_v2_2.jpg)
 *Figure 5: Alternative view of the Version 2 prototype, highlighting adaptability for various use cases*
 
+![Nikola & Univer of Windsor BMS Board](nikola_bms.jpg)
+*Figure 5: Modern Open BMS (Battery Management System) prototype, under active development*
+
+
+nikola_bms.jpg
 ## Table of Contents
 
 - [Executive Summary](#executive-summary)
@@ -43,9 +48,9 @@ We have developed a cutting-edge electric two-wheeler platform that seamlessly i
 We are transitioning from research to small-scale production, aiming to scale our technology and demonstrate real-world applications. We seek strategic partners, collaborators, and investors to bring this innovative platform to market.
 
 ### Key Highlights:
-- 🚲 Innovative e-bike platform with in-house ADAS technology
+- 🚲 Innovative e-bike platform and electronic automaotive chip supplier with in-house ADAS technology
 - 🏙️ Smart city integration capabilities
-- 🏭 Scalable production: 50 bikes/year, expandable to 500/year
+- 🏭 Scalable production: 100 bikes/year, expandable to 500/year, and the capability to supply/license 5,000 PCB boards per month to other manufacturers
 - 🌏 Global supply chain (Taiwan, Italy, Shenzhen)
 - 🔄 Versatile platform for multiple markets and use cases
 
