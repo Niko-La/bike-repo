@@ -13,7 +13,7 @@
 *Figure 3: Alternative view of the Version 1 prototype*
 
 ### Version 2
-![Nikola Bike V2](images/ikola_bike_v2.jpg)
+![Nikola Bike V2](images/Nikola_bike_v2.jpg)
 *Figure 4: Second iteration of our e-bike prototype, showcasing improvements*
 
 ![Nikola Bike V2 Alternative View](images/nikola_bike_v2_2.jpg)
@@ -22,9 +22,6 @@
 ![Nikola R&D LAB & University of Windsor BMS Board](images/nikola_bms.jpg)  
 *Figure 5: Modern Open BMS (Battery Management System) prototype, under active development*
 
-
-
-images/nikola_bms.jpg
 ## Table of Contents
 
 - [Executive Summary](#executive-summary)
