@@ -1,30 +1,30 @@
 # Innovative E-Bike Partnership Opportunity: Smart Cities to Scalable Production
 
-![Nikola Bike UW 1](nikola_bike_uw_1.jpg)
+![Nikola Bike UW 1](images/nikola_bike_uw_1.jpg)
 *Figure 1: Our team with the latest e-bike prototype at the University of Windsor research facility*
 
 ## Prototype Evolution
 
 ### Version 1
-![Nikola Bike V1](nikola_bike_v1.jpg)
+![Nikola Bike V1](images/nikola_bike_v1.jpg)
 *Figure 2: First iteration of our customized e-bike prototype*
 
-![Nikola Bike V1 Alternative View](nikola_bike_v1_2.jpg)
+![Nikola Bike V1 Alternative View](images/nikola_bike_v1_2.jpg)
 *Figure 3: Alternative view of the Version 1 prototype*
 
 ### Version 2
-![Nikola Bike V2](nikola_bike_v2.jpg)
+![Nikola Bike V2](images/ikola_bike_v2.jpg)
 *Figure 4: Second iteration of our e-bike prototype, showcasing improvements*
 
-![Nikola Bike V2 Alternative View](nikola_bike_v2_2.jpg)
+![Nikola Bike V2 Alternative View](images/nikola_bike_v2_2.jpg)
 *Figure 5: Alternative view of the Version 2 prototype, highlighting adaptability for various use cases*
 
-![Nikola R&D LAB & University of Windsor BMS Board](nikola_bms.jpg)  
+![Nikola R&D LAB & University of Windsor BMS Board](images/nikola_bms.jpg)  
 *Figure 5: Modern Open BMS (Battery Management System) prototype, under active development*
 
 
 
-nikola_bms.jpg
+images/nikola_bms.jpg
 ## Table of Contents
 
 - [Executive Summary](#executive-summary)
