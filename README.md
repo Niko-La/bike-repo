@@ -82,22 +82,23 @@ We are actively seeking strategic partners, collaborators, and investors to help
 5. **Research Ready**: Easy integration of additional sensors and electronics
 
 ## Production and Distribution Plan
-
 ```mermaid
-graph TD
-    A[Production Goal: 50 bikes/year] --> B[Market Segments]
-    B --> C[Smart City]
-    B --> D[Conservation & Tourism]
-    B --> E[High-End Custom]
-    B --> F[Hospitality]
-    B --> G[Agriculture & Construction]
-    C --> H[Schools/Libraries: 5]
-    C --> I[Higher Education: 5]
-    C --> J[Emergency Services: 5]
-    D --> K[Animal Conservatories/Tours: 5]
-    E --> L[Influencers/Celebrities: 5]
-    F --> M[Resorts/Hotels: 20]
-    G --> N[Farms/Construction Sites: 20]
+graph LR
+    A[Production: 50 bikes/year]
+    A --> B[Smart City]
+    A --> C[Conservation & Eco Tourism]
+    A --> D[High-End Custom F&F]
+    A --> E[Hospitality]
+    A --> F[Agriculture & Construction]
+    B --> B1[Schools/Libraries: 5]
+    B --> B2[Higher Education: 5]
+    B --> B3[Emergency Services: 5]
+    B --> B4[Municipalities: 5]
+    C --> C1[Conservatories/Tours: 5]
+    D --> D1[Influencers/F&F: 5]
+    E --> E1[Daily/Weekly Rentals: 20]
+    F --> F1[Farms/Construction: 20]
+
 ```
 
 | Market Segment | Target Quota | Use Case | Content Strategy | Prospect/Lead/Committed |
@@ -105,9 +106,10 @@ graph TD
 | Smart City - Schools / Public Libraries | 5 | Community maintenance, education, accessibility | Showcase community impact, educational integration | Local government, school boards |
 | Smart City - Higher Education | 5 | Engineering R&D, campus bike-share, student safety | Highlight innovation, sustainability on campus | Universities, colleges |
 | Smart City - Emergency Services | 5 | Fire, Police, Forestry, EMS work bikes | Document real-life use cases, efficiency improvements | Municipal departments |
-| Conservation & Tourism | 5 | Animal conservatories, bird watching, guided tours | Create viral marketing content, eco-friendly initiatives | NGOs, tour companies |
-| High-End Custom | 5 | Influencer collaborations, celebrity endorsements | Luxury lifestyle showcases, exclusive events | Social media influencers, athletes, celebrities |
-| Hospitality | 20 | Luxury resorts, eco-lodges, urban hotels | Co-branded experiences, rental programs | Hotel chains, boutique resorts |
+| Smart City - Municipalities | 5 | Waste management, transportation, urban maintenance | Demonstrate cost savings, environmental benefits | City councils, urban planners |
+| Conservation & Eco Tourism | 5 | Animal conservatories, bird watching, guided tours | Create viral marketing content, eco-friendly initiatives | NGOs, tour companies, eco-lodges |
+| High-End Custom F&F | 5 | Influencer collaborations, celebrity endorsements, Friends & Family | Luxury lifestyle showcases, exclusive events, personal testimonials | Social media influencers, athletes, celebrities, loyal supporters |
+| Hospitality - Daily/Weekly Rentals | 20 | Luxury resorts, eco-lodges, urban hotels | Co-branded experiences, flexible rental programs | Hotel chains, boutique resorts, vacation rentals |
 | Agriculture & Construction | 20 | Farm operations, construction site mobility | Demonstrate durability, load capacity, cost savings | Agribusinesses, construction companies |
 
 ## Long-term Vision
@@ -115,33 +117,46 @@ graph TD
 Our goal is to revolutionize the South Asian two-wheeler market through innovation and strategic partnerships:
 
 1. **Market Leadership**: 
-   - 🥇 Become the leading tier 1 supplier for controllers and ADAS
-   - 📈 Target market: 32 million units annually by 2030 in India
+   - 🥇 Become the leading Tier 1 supplier of advanced electronic systems for two-wheelers, focusing on:
+     - High-performance motor controllers
+     - Advanced Driver Assistance Systems (ADAS)
+     - Smart connectivity solutions
 
-2. **Technological Innovation**:
+2. **Market Penetration**:
+   - 📈 Target market size by 2030 in India:
+     - Electric two-wheeler market: 32 million units annually
+     - Two-wheeler semiconductor sales: $1 billion annually
+
+3. **Technological Innovation**:
+   - 🔬 Continuously evolve our RISC-V based designs to stay at the forefront of the industry
+   - 🔗 Develop cutting-edge IoT and smart city integration capabilities
    - 🔬 Continuous development of cutting-edge ADAS features
    - 🤖 AI and ML integration for predictive maintenance and safety
    - 🌐 Expansion of IoT capabilities for smart city integration
-
+   - 
 3. **Manufacturing Excellence**:
-   - 🏭 Scale from 50 bikes/year to premium small batch manufacturing
+   - 🏭 Scale from 100 bikes/year to premium small batch manufacturing
    - 🏢 Establish state-of-the-art facilities in key South Asian markets
    - 🔧 Implement Industry 4.0 practices
 
-4. **Strategic Partnerships**:
+
+4. **Sustainability Impact & Leadership**:
+   - 🌱 Contribute to urban decarbonization efforts worldwide
+   - ♻️ Implement and promote sustainable manufacturing practices across the supply chain
+   - 🔄 Develop closed-loop recycling systems for e-bike components
+
+5. **Strategic Partnerships**:
+   - 🤝 Collaborate with major automotive and tech companies to accelerate market adoption
+   - 🏙️ Partner with smart city initiatives to showcase the potential of integrated urban mobility solutions
    - 🤝 Leverage existing partnership with Bangalore prototype firm
    - 🏍️ Expand collaborations with major brands (Bajaj, TVS, Hero Honda)
    - 💻 Foster relationships with tech giants for software integration
 
-5. **Global Expansion**:
-   - 🌏 Use South Asian market as springboard for emerging markets
-   - 🔄 Adapt technology and business model for regional requirements
-   - 🏆 Establish a global brand for innovation in e-mobility
+6. **Global Expansion**:
+   - 🌏 Leverage success in the Indian market to expand into other emerging markets in Southeast Asia and Africa
+   - 🚀 Establish our brand as a global leader in sustainable urban mobility solutions
+   - 🇨🇦 Export Canadian Design Tech IP
 
-6. **Sustainability Leadership**:
-   - ♻️ Benchmark for sustainable manufacturing in automotive industry
-   - 🔄 Develop closed-loop recycling systems for e-bike components
-   - 🌱 Contribute to urban decarbonization efforts worldwide
 
 ### Key 5 year Objectives
 - **Produce 100,000 Boards / month**: Supply key manufacturers, license designs to top brands
