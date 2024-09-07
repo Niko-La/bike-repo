@@ -1,4 +1,4 @@
-# Advanced Electric 2-Wheeler Platform: Smart City Integration & Scalable Production
+# Advanced E-bike Platform: Smart City Integration & Scalable Production Roadmap
 
 ![Nikola Bike UW 1](images/nikola_bike_uw_1.jpg)
 *Figure 1: Our team with the latest e-bike prototype at the University of Windsor research facility*
