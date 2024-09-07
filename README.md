@@ -91,27 +91,27 @@ graph LR
     A --> D[High-End Custom F&F]
     A --> E[Hospitality]
     A --> F[Agriculture & Construction]
-    B --> B1[Schools/Libraries: 5]
-    B --> B2[Higher Education: 5]
-    B --> B3[Emergency Services: 5]
-    B --> B4[Municipalities: 5]
+    B --> B1[Schools/Libraries: 10]
+    B --> B2[Higher Education: 10]
+    B --> B3[Emergency Services: 10]
+    B --> B4[Municipalities: 10]
     C --> C1[Conservatories/Tours: 5]
-    D --> D1[Influencers/F&F: 5]
+    D --> D1[Influencers/F&F: 20]
     E --> E1[Daily/Weekly Rentals: 20]
-    F --> F1[Farms/Construction: 20]
+    F --> F1[Farms/Construction: 15]
 
 ```
 
 | Market Segment | Target Quota | Use Case | Content Strategy | Prospect/Lead/Committed |
 |----------------|--------------|----------|------------------|-------------------------|
-| Smart City - Schools / Public Libraries | 5 | Community maintenance, education, accessibility | Showcase community impact, educational integration | Local government, school boards |
-| Smart City - Higher Education | 5 | Engineering R&D, campus bike-share, student safety | Highlight innovation, sustainability on campus | Universities, colleges |
-| Smart City - Emergency Services | 5 | Fire, Police, Forestry, EMS work bikes | Document real-life use cases, efficiency improvements | Municipal departments |
-| Smart City - Municipalities | 5 | Waste management, transportation, urban maintenance | Demonstrate cost savings, environmental benefits | City councils, urban planners |
+| Smart City - Schools / Public Libraries | 10 | Community maintenance, education, accessibility | Showcase community impact, educational integration | Local government, school boards |
+| Smart City - Higher Education | 10 | Engineering R&D, campus bike-share, student safety | Highlight innovation, sustainability on campus | Universities, colleges |
+| Smart City - Emergency Services | 10 | Fire, Police, Forestry, EMS work bikes | Document real-life use cases, efficiency improvements | Municipal departments |
+| Smart City - Municipalities | 10 | Waste management, transportation, urban maintenance | Demonstrate cost savings, environmental benefits | City councils, urban planners |
 | Conservation & Eco Tourism | 5 | Animal conservatories, bird watching, guided tours | Create viral marketing content, eco-friendly initiatives | NGOs, tour companies, eco-lodges |
-| High-End Custom F&F | 5 | Influencer collaborations, celebrity endorsements, Friends & Family | Luxury lifestyle showcases, exclusive events, personal testimonials | Social media influencers, athletes, celebrities, loyal supporters |
+| High-End Custom F&F | 20 | Influencer collaborations, celebrity endorsements, Friends & Family | Luxury lifestyle showcases, exclusive events, personal testimonials | Social media influencers, athletes, celebrities, loyal supporters |
 | Hospitality - Daily/Weekly Rentals | 20 | Luxury resorts, eco-lodges, urban hotels | Co-branded experiences, flexible rental programs | Hotel chains, boutique resorts, vacation rentals |
-| Agriculture & Construction | 20 | Farm operations, construction site mobility | Demonstrate durability, load capacity, cost savings | Agribusinesses, construction companies |
+| Agriculture & Construction | 15 | Farm operations, construction site mobility | Demonstrate durability, load capacity, cost savings | Agribusinesses, construction companies |
 
 ## Long-term Vision
 
