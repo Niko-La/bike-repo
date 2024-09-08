@@ -30,6 +30,7 @@
 - [Production and Distribution Plan](#production-and-distribution-plan)
 - [Long-term Vision](#long-term-vision)
 - [Partnership Opportunities](#partnership-opportunities)
+- [News Coverage](#news-coverage)
 - [Next Steps](#next-steps)
 - [Contact Us](#contact-us)
 - [Appendix: Strategies for Securing Commitments and Funding](#appendix-strategies-for-securing-commitments-and-funding)
@@ -61,7 +62,7 @@ We are actively seeking strategic partners, collaborators, and investors to help
 - 🚲 Innovative e-bike platform and electronic automotive chip supplier with in-house ADAS technology
 - 🏙️ Smart city integration capabilities, enabling seamless communication with urban infrastructure
 - 🏭 Scalable production: Current capacity of 100 bikes/year, expandable to 500/year, with the capability to supply/license 5,000 PCB boards per month to other manufacturers
-- 🧑‍🔧 Local Deploy Factory: Micro-footprint Production Facility for agile manufacturing
+- 🧑‍🔧 Local Lean Factory: Micro-footprint Production Facility for agile manufacturing
 - 🌏 Global supply chain (Taiwan, Italy, Shenzhen) ensuring quality and reliability
 - 🔄 Versatile platform adaptable for multiple markets and use cases, from urban commuting to industrial applications
 
@@ -193,6 +194,16 @@ We are seeking partnerships in the following areas:
 2. Manufacturing Scale-up: Partners to help increase production capacity
 3. Distribution Networks: To expand our market reach in key regions
 4. R&D Collaborations: For continuous innovation in e-mobility and IoT
+
+## News Coverage
+
+### Engineering Researchers Develop Fast Charginng Algo for Electric Vehicle Batteries
+[University of Windsor Daily News - September 16, 2021](https://www.uwindsor.ca/dailynews/2021-09-16/engineering-researchers-examine-second-lives-electric-vehicle-batteries)
+
+### Windsor CTV News Article 
+[Windsor CTV News - Electric Two
+Wheeler BMS designed localy in Ontario](https://windsor.ctvnews.ca/pedal-power-the-push-to-boost-battery-assisted-cycling-in-windsor-1.5590130)
+
 
 ## Next Steps
 
