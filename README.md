@@ -135,7 +135,6 @@ Our goal is to revolutionize the South Asian two-wheeler market through innovati
    - 🔬 Continuous development of cutting-edge ADAS features
    - 🤖 AI and ML integration for predictive maintenance and safety
    - 🌐 Expansion of IoT capabilities for smart city integration
-   - 
 3. **Manufacturing Excellence**:
    - 🏭 Scale from 100 bikes/year to premium small batch manufacturing
    - 🏢 Establish state-of-the-art facilities in key South Asian markets
