@@ -6,22 +6,11 @@
 
 ## Prototype Evolution
 
-### Version 1
-![Nikola Bike V1](images/nikola_bike_v1.jpg)
-*Figure 2: First iteration of our customized e-bike prototype, featuring initial integration of smart city technologies*
+| ![Nikola Bike V1](images/nikola_bike_v1.jpg) *Figure 2: First iteration of our customized e-bike prototype, featuring initial integration of smart city technologies* | ![Nikola Bike V1 Alternative View](images/nikola_bike_v1_2.jpg) *Figure 3: Alternative view of the Version 1 prototype, highlighting the robust frame design* |
+|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+| ![Nikola Bike V2](images/nikola_bike_v2.jpg) *Figure 4: Second iteration of our e-bike prototype, showcasing improved aerodynamics and enhanced sensor integration and as lifestyle bike* | ![Nikola Bike V2 Alternative View](images/nikola_bike_v2_2.jpg) *Figure 5: Alternative view of the Version 2 prototype, demonstrating its adaptability for various use cases, including construction site transport workbike* |
+| ![Nikola R&D LAB & University of Windsor BMS Board](images/nikola_bms.jpg) *Figure 6: Modern Open BMS (Battery Management System) prototype, under active development at our R&D lab* |  |
 
-![Nikola Bike V1 Alternative View](images/nikola_bike_v1_2.jpg)
-*Figure 3: Alternative view of the Version 1 prototype, highlighting the robust frame design*
-
-### Version 2
-![Nikola Bike V2](images/nikola_bike_v2.jpg)
-*Figure 4: Second iteration of our e-bike prototype, showcasing improved aerodynamics and enhanced sensor integration and as lifestyle bike*
-
-![Nikola Bike V2 Alternative View](images/nikola_bike_v2_2.jpg)
-*Figure 5: Alternative view of the Version 2 prototype, demonstrating its adaptability for various use cases, including construction site transport workbike*
-
-![Nikola R&D LAB & University of Windsor BMS Board](images/nikola_bms.jpg)  
-*Figure 6: Modern Open BMS (Battery Management System) prototype, under active development at our R&D lab*
 
 ## Table of Contents
 - [Executive Summary](#executive-summary)
