@@ -1,4 +1,4 @@
-# Advanced E-bike Platform Roadmap: 
+# Advanced E-bike Platform Roadmap Report V0.1: 
 ### Smart City Integration & Scalable Production Plan
 
 ![Nikola Bike UW 1](images/nikola_bike_uw_1_crop.jpg)
