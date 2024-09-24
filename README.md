@@ -1,7 +1,7 @@
 # Advanced E-bike Platform Roadmap: 
 ### Smart City Integration & Scalable Production Plan
 
-![Nikola Bike UW 1](images/nikola_bike_uw_1.jpg)
+![Nikola Bike UW 1](images/nikola_bike_uw_1_crop.jpg)
 *Figure 1:  The latest e-bike prototype at the University of Windsor research facility*
 
 ## Prototype Evolution
