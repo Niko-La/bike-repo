@@ -7,7 +7,7 @@
 *Figure 1: latest e-bike prototype at the University of Windsor research facility (July 2024)*
 
 
-**🌟 [Be Part of the Future – Get Involved Today!](https://calendly.com/saas-me-up/30min) 🌟**
+**🌟[Be Part of the Future – Get Involved Today!](https://calendly.com/saas-me-up/30min)🌟**
 
 ## Prototype Evolution
 

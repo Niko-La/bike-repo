@@ -17,3 +17,7 @@ timezone: America/New_York
 # Additional SEO Settings
 lang: en
 locale: en_US
+
+plugins:
+  - jekyll-mermaid
+  -jekyll-gantt
