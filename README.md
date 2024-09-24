@@ -1,8 +1,13 @@
-# Advanced E-bike Platform Roadmap Report V0.1: 
-### Smart City Integration & Scalable Production Plan
+# Niko.la E-Bike R&D V0.1  
+### Preliminary Progress Report  
+> 2025 Scaling Plan: Producing 100 Bikes for Real-World Testing of In-House Electronics Designs
 
-![Nikola Bike UW 1](images/nikola_bike_uw_1_crop.jpg)
-*Figure 1:  The latest e-bike prototype at the University of Windsor research facility*
+
+![Nikola Bike UW 1](images/nikola_bike_uw_1_crop.jpg)  
+*Figure 1: latest e-bike prototype at the University of Windsor research facility (July 2024)*
+
+
+**🌟 [Be Part of the Future – Get Involved Today!](https://calendly.com/saas-me-up/30min) 🌟**
 
 ## Prototype Evolution
 
