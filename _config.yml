@@ -20,4 +20,4 @@ locale: en_US
 
 plugins:
   - jekyll-mermaid
-  -jekyll-gantt
+  - jekyll-gantt
