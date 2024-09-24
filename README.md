@@ -2,14 +2,39 @@
 ### Smart City Integration & Scalable Production Plan
 
 ![Nikola Bike UW 1](images/nikola_bike_uw_1.jpg)
-*Figure 1: Our team with the latest e-bike prototype at the University of Windsor research facility*
+*Figure 1:  The latest e-bike prototype at the University of Windsor research facility*
 
 ## Prototype Evolution
 
-| ![Nikola Bike V1](images/nikola_bike_v1.jpg) *Figure 2: First iteration of our customized e-bike prototype, featuring initial integration of smart city technologies* | ![Nikola Bike V1 Alternative View](images/nikola_bike_v1_2.jpg) *Figure 3: Alternative view of the Version 1 prototype, highlighting the robust frame design* |
-|:--------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| ![Nikola Bike V2](images/nikola_bike_v2.jpg) *Figure 4: Second iteration of our e-bike prototype, showcasing improved aerodynamics and enhanced sensor integration and as lifestyle bike* | ![Nikola Bike V2 Alternative View](images/nikola_bike_v2_2.jpg) *Figure 5: Alternative view of the Version 2 prototype, demonstrating its adaptability for various use cases, including construction site transport workbike* |
-| ![Nikola R&D LAB & University of Windsor BMS Board](images/nikola_bms.jpg) *Figure 6: Modern Open BMS (Battery Management System) prototype, under active development at our R&D lab* |  |
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+
+<div>
+  <img src="images/nikola_bike_v1.jpg" alt="Nikola Bike V1" style="width:100%;">
+  <p><em>Figure 2: V0.01 First iteration of our customized e-bike prototype, featuring initial integration of smart city technologies</em></p>
+</div>
+
+<div>
+  <img src="images/nikola_bike_v1_2.jpg" alt="Nikola Bike V1 Alternative View" style="width:100%;">
+  <p><em>Figure 3: V0.05 Alternative view of the Version 1 prototype, highlighting the robust frame design</em></p>
+</div>
+
+<div>
+  <img src="images/nikola_bike_v2.jpg" alt="Nikola Bike V2" style="width:100%;">
+  <p><em>Figure 4: V0.09 Second iteration of our e-bike prototype, showcasing improved aerodynamics and enhanced sensor integration and as lifestyle bike</em></p>
+</div>
+
+<div>
+  <img src="images/nikola_bike_v2_2.jpg" alt="Nikola Bike V2 Alternative View" style="width:100%;">
+  <p><em>Figure 5: V0.1 Alternative view of the Version 2 prototype, demonstrating its adaptability for various use cases, including construction site transport workbike</em></p>
+</div>
+
+<div>
+  <img src="images/nikola_bms.jpg" alt="Nikola R&D LAB & University of Windsor BMS Board" style="width:100%;">
+  <p><em>Figure 6: Customized Open BMS (Battery Management System) prototype, under active testing at our R&D lab</em></p>
+</div>
+
+</div>
+
 
 
 ## Table of Contents
@@ -204,7 +229,8 @@ Wheeler BMS designed localy in Ontario](https://windsor.ctvnews.ca/pedal-power-t
 Ready to be part of the future of urban mobility? Contact us to explore partnership opportunities:
 
 - Email: partnerships@niko.la
-- Website: www.niko.la
+- Lead Researcher: kava@niko.la
+- Website: [niko.la](www.niko.la)
   
 Let's revolutionize urban transportation together!
 

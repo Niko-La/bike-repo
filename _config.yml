@@ -1,0 +1,19 @@
+name: true
+#markdown: GFM
+#kramdown:
+#  parse_block_html: true
+
+
+# Social Media
+social_links:
+  github: niko-la
+  linkedin: kava
+  twitter: diynikola
+
+
+  # Timezone
+timezone: America/New_York
+
+# Additional SEO Settings
+lang: en
+locale: en_US
